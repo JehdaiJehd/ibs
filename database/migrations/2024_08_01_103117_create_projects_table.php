@@ -14,7 +14,7 @@ return new class extends Migration
         Schema::create('projects', function (Blueprint $table) {
             $table->id();
             $table->string('nom_projet');
-            $table->integer('statut_projet')->default(99); //1 pour le projet fini et 99 pour le projet en cours
+            $table->text('statut_projet'); //1 pour le projet fini et 99 pour le projet en cours
             $table->text('details_projet');
             $table->string('date_debut')->nullable();
             $table->string('date_fin')->nullable();

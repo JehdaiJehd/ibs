@@ -62,7 +62,7 @@
                     <nav>
                     <a href="index.html" class="nav-item nav-link active"><i class="fa fa-tachometer-alt me-2"></i>Dashboard</a>
                    
-                    <a href="widget.html" class="nav-item nav-link"><i class="fa fa-th me-2"></i>Projets</a>
+                    <a href="/projects" class="nav-item nav-link"><i class="fa fa-th me-2"></i>Projets</a>
                     <a href="/partenaires" class="nav-item nav-link"><i class="fa fa-table me-2"></i>Partenaires</a>
                     <a href="form.html" class="nav-item nav-link"><i class="fa fa-keyboard me-2"></i>Ressources</a>
                     <a href="table.html" class="nav-item nav-link"><i class="fa fa-table me-2"></i>Carrières</a>

@@ -58,7 +58,7 @@
             <li><a href="#services">Services</a></li>
             <li><a href="#portfolio">Blog</a></li>
             <li><a href="#team">Equipe</a></li>
-            <li><a href="#team">Projets</a></li>
+            <li><a href="{{ route('voirTousLesProjets') }}">Projets</a></li>
             <li class="dropdown"><a href="#"><span>Dérouler</span> <i class="bi bi-chevron-down toggle-dropdown"></i></a>
               <ul>
                 
@@ -78,7 +78,7 @@
 
   </header>
 
-  <main>
+        <main>
             @yield('content_principal')
         </main>
 
@@ -86,7 +86,7 @@
 
 
 
-        <footer id="footer" class="footer">
+        <footer id="footer" class="footer mb-4">
 
 
 
