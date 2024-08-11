@@ -60,16 +60,14 @@
                 </div>
                 <div class="navbar-nav w-100">
                     <nav>
-                    <a href="index.html" class="nav-item nav-link active"><i class="fa fa-tachometer-alt me-2"></i>Dashboard</a>
+                   
                    
                     <a href="/projects" class="nav-item nav-link"><i class="fa fa-th me-2"></i>Projets</a>
                     <a href="/partenaires" class="nav-item nav-link"><i class="fa fa-table me-2"></i>Partenaires</a>
-                    <a href="form.html" class="nav-item nav-link"><i class="fa fa-keyboard me-2"></i>Ressources</a>
-                    <a href="table.html" class="nav-item nav-link"><i class="fa fa-table me-2"></i>Carrières</a>
-                    <a href="chart.html" class="nav-item nav-link"><i class="fa fa-chart-bar me-2"></i>Experts</a>
-                    <a href="chart.html" class="nav-item nav-link"><i class="fa fa-chart-bar me-2"></i>Blog</a>
-                    <a href="chart.html" class="nav-item nav-link"><i class="fa fa-chart-bar me-2"></i>Contacts</a>
-                    <a href="chart.html" class="nav-item nav-link"><i class="fa fa-chart-bar me-2"></i>Utilisateurs</a>
+                 
+                    <a href="/blogs" class="nav-item nav-link"><i class="fa fa-chart-bar me-2"></i>Blog</a>
+                    <a href="/contact_management" class="nav-item nav-link"><i class="fa fa-chart-bar me-2"></i>Contacts</a>
+                    
                     
                 </div>
             </nav>

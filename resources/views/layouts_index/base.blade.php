@@ -56,7 +56,7 @@
             <li><a href="#hero" class="active">Accueil</a></li>
             <li><a href="#about">A propos</a></li>
             <li><a href="#services">Services</a></li>
-            <li><a href="#portfolio">Blog</a></li>
+            <li><a href="/voirLeBlog">Blog</a></li>
             <li><a href="#team">Equipe</a></li>
             <li><a href="{{ route('voirTousLesProjets') }}">Projets</a></li>
             <li class="dropdown"><a href="#"><span>Dérouler</span> <i class="bi bi-chevron-down toggle-dropdown"></i></a>

@@ -16,6 +16,7 @@ class PartenaireController extends Controller
     public function index()
     {
         //
+        
         $partenaires = Partenaire::all();
         
         return view('admin.partenaires.index', compact('partenaires'));

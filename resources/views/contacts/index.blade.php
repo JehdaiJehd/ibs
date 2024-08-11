@@ -1,4 +1,5 @@
-@extends('layouts_index.base')
+@extends('admin/layout_admin')
+
 
 
 
@@ -11,4 +12,5 @@
 
 
 
-@stop
+
+@stop 

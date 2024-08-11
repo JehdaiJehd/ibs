@@ -14,5 +14,11 @@ class VoirTousLesProjetsController extends Controller
         $projects = Project::latest()->paginate(15);
 
         return view('voirLesProjets', compact('projects'));
+    
+    }
+
+    public function get_a_project(Project $project)
+    {
+        return view('project', compact('project'));
     }
 }

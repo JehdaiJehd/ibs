@@ -57,15 +57,15 @@
             <li><a href="#about">A propos</a></li>
             <li><a href="#services">Services</a></li>
             <li><a href="#team">Equipe</a></li>
-            <li><a href="#portfolio">Blog</a></li>
+            <li><a href="/voirLeBlog">Blog</a></li>
           
             <li><a href="{{ route('voirTousLesProjets') }}">Projets</a></li>
             <li class="dropdown"><a href="#"><span>Dérouler</span> <i class="bi bi-chevron-down toggle-dropdown"></i></a>
               <ul>
                 
-                <li><a href="#">Experts</a></li>
-                <li><a href="#">Ressources</a></li>
-                <li><a href="#">Carrières</a></li>
+                <li><a href="/home">Experts</a></li>
+                <li><a href="/home">Ressources</a></li>
+                <li><a href="/home">Carrières</a></li>
               </ul>
             </li>
             <li><a href="#contact">Contact</a></li>
